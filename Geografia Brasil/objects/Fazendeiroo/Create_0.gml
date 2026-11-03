@@ -1,0 +1,1 @@
+texto = ["Ajude coletando os grãosddddd"]

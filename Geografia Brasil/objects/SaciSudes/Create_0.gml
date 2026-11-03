@@ -1,0 +1,1 @@
+texto = ["A região Sudeste está muito poluida","Ajude coletando lixos espalhados nas ruas"]

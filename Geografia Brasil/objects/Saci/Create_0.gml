@@ -1,0 +1,1 @@
+texto = ["Ajude a floresta","Apague o fogo!", "Aperte a tecla 'K' para apagar o fogo"]

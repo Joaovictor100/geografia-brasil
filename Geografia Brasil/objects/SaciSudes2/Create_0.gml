@@ -1,0 +1,1 @@
+texto = ["Este é o Cristo Redentor","Localizada no Rio de Janeiro", "Esta estátua atrai milhares de turistas"]

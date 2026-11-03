@@ -1,0 +1,2 @@
+globalvar cartaAberta;
+cartaAberta = false;
